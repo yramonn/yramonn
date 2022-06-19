@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello World! My name is Ramon, I am passionate about technology, currently a student of Information Systems and working as a Software Developer.
 
-<!--
-**yramonn/yramonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/yramonn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yramonn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yramonn&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ##
+ 
+<div> 
+ 
+  <a href="https://www.linkedin.com/in/ramon--silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
