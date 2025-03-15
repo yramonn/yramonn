@@ -1,4 +1,4 @@
-## Hello World! My name is Ramon, I am passionate about technology, currently a student of Information Systems and working as a Software Developer.
+## Hello World! My name is Ramon, I am passionate about technology, graduated Information Systems and working as a Software Developer.
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
